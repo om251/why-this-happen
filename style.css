@@ -1,0 +1,39 @@
+#notbio{
+  text-align:center;
+  background: linear-gradient(#1976D2 10%,#002D62 100%);
+}
+
+#hobby{
+  color:white;
+  text-shadow: 4px 4px black;
+  font-family: cursive;
+}
+img{
+  height:130px;
+  border-radius:100%;
+}
+#bio{
+  padding:20px;
+  font-size:15px;
+  text-align:center;
+  background:linear-gradient(#1B5E20 0%,#388E3C 100%);
+  color:white;
+}
+
+.menu {
+    list-style: none;
+    position: absolute;
+    z-index: 20px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+}
